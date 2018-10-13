@@ -1,0 +1,1569 @@
+﻿Build started 26-Aug-18 14:47:37.
+Environment at start of build:
+ALLUSERSPROFILE = C:\ProgramData
+APPDATA = C:\Users\Cristian\AppData\Roaming
+CommonProgramFiles = C:\Program Files (x86)\Common Files
+CommonProgramFiles(x86) = C:\Program Files (x86)\Common Files
+CommonProgramW6432 = C:\Program Files\Common Files
+COMPUTERNAME = CRISTIANLAPTOP
+ComSpec = C:\WINDOWS\system32\cmd.exe
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING = Default
+GTK_BASEPATH = C:\Program Files (x86)\GtkSharp\2.12\
+HOMEDRIVE = C:
+HOMEPATH = \Users\Cristian
+LOCALAPPDATA = C:\Users\Cristian\AppData\Local
+LOGONSERVER = \\CRISTIANLAPTOP
+MSBuildLoadMicrosoftTargetsReadOnly = true
+NUMBER_OF_PROCESSORS = 8
+OneDrive = C:\Users\Cristian\OneDrive
+OS = Windows_NT
+Path = C:\Program Files (x86)\Python36-32\Scripts\;C:\Program Files (x86)\Python36-32\;C:\Program Files\Haskell\bin;C:\Program Files\Haskell Platform\8.2.1\lib\extralibs\bin;C:\Program Files\Haskell Platform\8.2.1\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Java\jdk1.8.0_66\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\CodeBlocks\MinGW\bin\;C:\Program Files\Notepad++;C:\Windows\Microsoft.NET\Framework\v4.0.30319;D:\MatLab\runtime\win64;D:\MatLab\bin;D:\MatLab\polyspace\bin;D:\AndroidSDK\platform-tools;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\Haskell Platform\8.2.1\mingw\bin;.;C:\Program Files\Git\cmd;C:\Program Files (x86)\Tesseract-OCR;C:\Users\Cristian\AppData\Roaming\cabal\bin;C:\Users\Cristian\AppData\Local\Microsoft\WindowsApps;C:\Users\Cristian\AppData\Local\GitHubDesktop\bin
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
+PkgDefApplicationConfigFile = C:\Users\Cristian\AppData\Local\Microsoft\VisualStudio\15.0_c5598afe\devenv.exe.config
+PROCESSOR_ARCHITECTURE = x86
+PROCESSOR_ARCHITEW6432 = AMD64
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
+PROCESSOR_LEVEL = 6
+PROCESSOR_REVISION = 3c03
+ProgramData = C:\ProgramData
+ProgramFiles = C:\Program Files (x86)
+ProgramFiles(x86) = C:\Program Files (x86)
+ProgramW6432 = C:\Program Files
+PSModulePath = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC = C:\Users\Public
+SESSIONNAME = Console
+SystemDrive = C:
+SystemRoot = C:\WINDOWS
+TEMP = C:\Users\Cristian\AppData\Local\Temp
+TMP = C:\Users\Cristian\AppData\Local\Temp
+USERDOMAIN = CRISTIANLAPTOP
+USERDOMAIN_ROAMINGPROFILE = CRISTIANLAPTOP
+USERNAME = Cristian
+USERPROFILE = C:\Users\Cristian
+VisualStudioDir = C:\Users\Cristian\Documents\Visual Studio 2017
+VisualStudioEdition = Microsoft Visual Studio Community 2017
+VisualStudioVersion = 15.0
+VS110COMNTOOLS = C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\Tools\
+VS120COMNTOOLS = C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\Tools\
+VS140COMNTOOLS = C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\
+VSAPPIDDIR = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\
+VSAPPIDNAME = devenv.exe
+VSLANG = 1033
+VSSKUEDITION = Community
+windir = C:\WINDOWS
+_NTVS_PID = 4556
+
+14:47:37.021     1>Project "C:\Users\Cristian\Desktop\Test BitDefender\Server\Server.vcxproj" on node 2 (Clean target(s)).
+14:47:37.021     1>Initial Properties:
+                   _AfterCompileWinFXInternalDependsOn = 
+                           PrepareResourcesForSatelliteAssemblies;
+                           MergeLocalizationDirectives;
+                           AfterCompileWinFX
+                       
+                   _ApplicableDebuggers = Desktop
+                   _BuildActionType = Clean
+                   _BuildSuffix = 
+                   :VCEnd
+                   _CheckDev11ToolsInstalled = true
+                   _CompileTargetNameForLocalType = _CompileTemporaryAssembly
+                   _DebugSymbolsProduced = false
+                   _DefaultPlatform = win32
+                   _DeploymentApplicationManifestIdentity = Server.exe
+                   _DeploymentBuiltUpdateInterval = 0
+                   _DeploymentBuiltUpdateIntervalUnits = Days
+                   _DeploymentDeployManifestIdentity = Server.application
+                   _DeploymentFileMappingExtension = 
+                   _DeploymentPublishableProjectDefault = true
+                   _DeploymentTargetApplicationManifestFileName = Server.exe.manifest
+                   _DeploymentUrl = 
+                   _Dev11Installed = 
+                   _Dev11WDExpressInstalled = 
+                   _DirectoryBuildPropsBasePath = 
+                   _DirectoryBuildPropsFile = Directory.Build.props
+                   _DirectoryBuildTargetsBasePath = 
+                   _DirectoryBuildTargetsFile = Directory.Build.targets
+                   _DocumentationFileProduced = false
+                   _FullFrameworkReferenceAssemblyPaths = C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0
+                   _GenerateAppxManifestDependsOn = ;_FixVCLibs120References
+                   _GenerateBindingRedirectsIntermediateAppConfig = Release\Server.exe.config
+                   _GenerateRestoreGraphProjectEntryInputProperties = ExcludeRestorePackageImports=true
+                   _GetChildProjectCopyToOutputDirectoryItems = true
+                   _HandlePackageFileConflictsAfter = ResolveNuGetPackageAssets;ResolveNuGetPackageAssetsNonAOT
+                   _HandlePackageFileConflictsBefore = ResolveAssemblyReferences
+                   _IgnoreInstalledPlatformToolset_v110 = true
+                   _IgnoreInstalledPlatformToolset_v110_wp80 = true
+                   _IgnoreInstalledPlatformToolset_v110_xp = true
+                   _InitialBaseIntermediateOutputPath = obj\
+                   _InitialMSBuildProjectExtensionsPath = C:\Users\Cristian\Desktop\Test BitDefender\Server\obj\
+                   _InvalidConfigurationMessageText = The OutputPath property is not set for project 'Server.vcxproj'.  Please check to make sure that you have specified a valid combination of Configuration and Platform for this project.  Configuration='Release'  Platform='Win32'.  This error may also appear if some other project is trying to follow a project-to-project reference to this project, this project has been unloaded or is not included in the solution, and the referencing project does not build using the same or an equivalent Configuration or Platform.
+                   _ManifestDependsOn = 
+                         ;
+                         
+                         ;
+                         ComputeManifestInputsTargets;
+                       ;
+                         Manifest;
+                         ComputeManifestGeneratedLinkerInputs;
+                       
+                   _NuGetRuntimeIdentifierPlatformTargetSuffix = -x86
+                   _NuGetRuntimeIdentifierWithoutAot = win-x86
+                   _OriginalConfiguration = Release
+                   _OriginalPlatform = Win32
+                   _PlatformDefaultPropsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\\Platforms\Win32\\Platform.default.props
+                   _PlatformFolder = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Platforms\Win32\
+                   _PlatformToolsetFriendlyNameFor_v100 = Visual Studio 2010 (v100)
+                   _PlatformToolsetFriendlyNameFor_v110 = Visual Studio 2012 (v110)
+                   _PlatformToolsetFriendlyNameFor_v110_wp80 = Windows Phone 8.0 (v110_wp80)
+                   _PlatformToolsetFriendlyNameFor_v110_xp = Visual Studio 2012 - Windows XP (v110_xp)
+                   _PlatformToolsetFriendlyNameFor_v120 = Visual Studio 2013 (v120)
+                   _PlatformToolsetFriendlyNameFor_v120_wp81 = Windows Phone 8.1 (v120_wp81)
+                   _PlatformToolsetFriendlyNameFor_v120_xp = Visual Studio 2013 - Windows XP (v120_xp)
+                   _PlatformToolsetFriendlyNameFor_v140 = Visual Studio 2015 (v140)
+                   _PlatformToolsetFriendlyNameFor_v140_clang_3_7 = Clang 3.7 with Microsoft CodeGen (v140_clang_3_7)
+                   _PlatformToolsetFriendlyNameFor_v140_clang_c2 = Visual Studio 2015 - Clang with Microsoft CodeGen (v140_clang_c2)
+                   _PlatformToolsetFriendlyNameFor_v140_xp = Visual Studio 2015 - Windows XP (v140_xp)
+                   _PlatformToolsetFriendlyNameFor_v141 = Visual Studio 2017 (v141)
+                   _PlatformToolsetFriendlyNameFor_v141_clang_c2 = Visual Studio 2017 - Clang with Microsoft CodeGen (v141_clang_c2)
+                   _PlatformToolsetFriendlyNameFor_v141_xp = Visual Studio 2017 - Windows XP (v141_xp)
+                   _PlatformToolsetFriendlyNameFor_v90 = Visual Studio 2008 (v90)
+                   _PlatformToolsetShortNameFor_v100 = Visual Studio 2010
+                   _PlatformToolsetShortNameFor_v110 = Visual Studio 2012
+                   _PlatformToolsetShortNameFor_v110_wp80 = Windows Phone 8.0
+                   _PlatformToolsetShortNameFor_v110_xp = Visual Studio 2012 - Windows XP
+                   _PlatformToolsetShortNameFor_v120 = Visual Studio 2013
+                   _PlatformToolsetShortNameFor_v120_wp81 = Windows Phone 8.1
+                   _PlatformToolsetShortNameFor_v120_xp = Visual Studio 2013 - Windows XP
+                   _PlatformToolsetShortNameFor_v140 = Visual Studio 2015
+                   _PlatformToolsetShortNameFor_v140_xp = Visual Studio 2015 - Windows XP
+                   _PlatformToolsetShortNameFor_v90 = Visual Studio 2008
+                   _ProjectDefaultTargets = Build
+                   _PropertySheetDisplayName = Whole Program Optimization
+                   _RequireMCPass2ForMainAssembly = false
+                   _RequireMCPass2ForSatelliteAssemblyOnly = false
+                   _ResolveReferenceDependencies = false
+                   _ResourceCompileDependsOn = 
+                         
+                         ;
+                         BeforeResourceCompile;
+                       ;
+                         ;
+                         MakeDirsForResourceCompile;
+                         ResourceCompile;
+                         
+                         ;
+                         AfterResourceCompile;
+                       
+                       
+                   _ResourceNameInMainAssembly = Server.g.resources
+                   _SGenDllCreated = false
+                   _SGenDllName = Server.XmlSerializers.dll
+                   _SGenGenerateSerializationAssembliesConfig = Auto
+                   _TargetFrameworkDirectories = C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0
+                   _TargetFrameworkVersionWithoutV = 4.0
+                   _ToolsetFound = true
+                   _ToolsetPropsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\\Platforms\Win32\PlatformToolsets\v141\Toolset.props
+                   _ToolsetTargetsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\\Platforms\Win32\PlatformToolsets\v141\Toolset.targets
+                   _UpgradePlatformToolsetFor_v100 = v141
+                   _UpgradePlatformToolsetFor_v110 = v141
+                   _UpgradePlatformToolsetFor_v120 = v141
+                   _UpgradePlatformToolsetFor_v140 = v141
+                   _UpgradePlatformToolsetFor_v141 = v141
+                   _UpgradePlatformToolsetFor_v141_xp = v141_xp
+                   _UpgradePlatformToolsetFor_v90 = v141
+                   _VC_Target_Library_Platform = Desktop
+                   _VC_x64_ToolsInstalled = true
+                   _VCToolsVersionProps = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Auxiliary\Build\Microsoft.VCToolsVersion.default.props
+                   AddAdditionalExplicitAssemblyReferences = true
+                   AddAppConfigToBuildOutputs = true
+                   AdditionalExplicitAssemblyReferences = System.Core;
+                   AfterBuildCompileTargets = 
+                         ;
+                         AfterBuildCompileEvent;
+                       
+                   AfterBuildGenerateSourcesTargets = 
+                         
+                         ;
+                         AfterBuildGenerateSources;
+                       ;
+                         AfterBuildGenerateSourcesEvent;
+                       
+                   AfterBuildLinkTargets = 
+                         ;
+                         CreateSatelliteAssemblies;
+                         _Appverifier;
+                         _Deploy;
+                         PrepareForRun;
+                         PostBuildEvent;
+                       
+                   AfterClCompileTargets = 
+                         ;
+                         AfterClCompile;
+                       
+                   AfterImpLibTargets = 
+                         ;
+                         AfterImpLib;
+                       
+                   AfterLibTargets = 
+                         ;
+                         AfterLib;
+                       
+                   AfterLinkTargets = 
+                         ;
+                         AfterLink;
+                       
+                   AfterManifestTargets = 
+                         ;
+                         AfterManifest;
+                       
+                   AfterMidlTargets = 
+                         ;
+                         AfterMidl;
+                       
+                   AfterResourceCompileTargets = 
+                         ;
+                         AfterResourceCompile;
+                       
+                   AllowedReferenceAssemblyFileExtensions = 
+                         .winmd;
+                         .dll;
+                         .exe
+                       
+                   AllowedReferenceRelatedFileExtensions = 
+                         .pdb;
+                         .xml;
+                         .pri;
+                         .dll.config;
+                         .exe.config
+                       
+                   AllowLocalNetworkLoopback = true
+                   AllProjectOutputGroupsDependsOn = 
+                         ;
+                         BuiltProjectOutputGroup;
+                         DebugSymbolsProjectOutputGroup;
+                         DocumentationProjectOutputGroup;
+                         SatelliteDllsProjectOutputGroup;
+                         SourceFilesProjectOutputGroup;
+                         ContentFilesProjectOutputGroup;
+                         SGenFilesOutputGroup
+                       
+                   ALLUSERSPROFILE = C:\ProgramData
+                   AlwaysCompileMarkupFilesInSeparateDomain = true
+                   AndroidTargetsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\MDD\Android\V150\
+                   APPDATA = C:\Users\Cristian\AppData\Roaming
+                   AppxManifestMetadataClHostArchDir = HostX86
+                   AppxManifestMetadataClTargetArchDir = x86
+                   AssemblyFoldersConfigFile = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\AssemblyFolders.config
+                   AssemblyFoldersConfigFileSearchPath = {AssemblyFoldersFromConfig:C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\AssemblyFolders.config,v4.0};
+                   AssemblyFoldersSuffix = AssemblyFoldersEx
+                   AssemblyName = Server
+                   AssemblySearchPaths = 
+                         {CandidateAssemblyFiles};
+                         C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\atlmfc\lib\x86;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86;;
+                         {HintPathFromItem};
+                         {TargetFrameworkDirectory};
+                         {AssemblyFoldersFromConfig:C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\AssemblyFolders.config,v4.0};
+                         {Registry:Software\Microsoft\.NETFramework,v4.0,AssemblyFoldersEx};
+                         {AssemblyFolders};
+                         {GAC};
+                         {RawFileName};
+                         C:\Users\Cristian\Desktop\Test BitDefender\Release\
+                       
+                   AssignTargetPathsDependsOn = 
+                   Attach = false
+                   AutoUnifyAssemblyReferences = false
+                   AvailablePlatforms = Any CPU,x86,x64
+                   BaseIntermediateOutputPath = obj\
+                   BaseNuGetRuntimeIdentifier = win
+                   BeforeBuildCompileTargets = 
+                         ;
+                       
+                   BeforeBuildGenerateSourcesTargets = 
+                         
+                         ;
+                         BeforeBuildGenerateSources;
+                       ;
+                       
+                   BeforeClCompileTargets = 
+                         ;
+                         BeforeClCompile;
+                       
+                   BeforeImpLibTargets = 
+                         ;
+                         BeforeImpLib;
+                       
+                   BeforeLibTargets = 
+                         ;
+                         BeforeLib;
+                       
+                   BeforeLinkTargets = 
+                         ;
+                         BeforeLink;
+                       
+                   BeforeManifestTargets = 
+                         ;
+                         BeforeManifest;
+                       
+                   BeforeMidlTargets = 
+                         ;
+                         BeforeMidl;
+                       
+                   BeforeResourceCompileTargets = 
+                         ;
+                         BeforeResourceCompile;
+                       
+                   BuildCompileAction = _BuildCompileAction
+                   BuildCompileTargets = 
+                         ;
+                         _ClCompile;
+                         _ResGen;
+                         _ResourceCompile;
+                         
+                         ;
+                         _ImpLib;
+                         _Lib;
+                       ;
+                       
+                   BuildDependsOn = SetTelemetryEnvironmentVariables;
+                         _PrepareForBuild;
+                         
+                         ResolveReferences;
+                         PrepareForBuild;
+                         InitializeBuildStatus;
+                         BuildGenerateSources;
+                         BuildCompile;
+                         BuildLink;
+                       ;
+                         AfterBuild;
+                         FinalizeBuildStatus;
+                       
+                   BuildGenerateSourcesAction = _BuildGenerateSourcesAction
+                   BuildGenerateSourcesTargets = 
+                         ;
+                         PreBuildEvent;
+                         _Xsd;
+                         _Midl;
+                       
+                   BuildingInsideVisualStudio = true
+                   BuildingProject = true
+                   BuildInParallel = true
+                   BuildLibTargets = 
+                         ;
+                         _ImpLib;
+                         _Lib;
+                       
+                   BuildLinkAction = _BuildLinkAction
+                   BuildLinkTargets = 
+                         ;
+                         ComputeLegacyManifestEmbedding;
+                         _Link;
+                         _ALink;
+                         _Manifest;
+                         RegisterOutput;
+                         _XdcMake;
+                         _BscMake;
+                       
+                   BuildProjectReferences = true
+                   BuildSteps = 
+                         ResolveReferences;
+                         PrepareForBuild;
+                         InitializeBuildStatus;
+                         BuildGenerateSources;
+                         BuildCompile;
+                         BuildLink;
+                       
+                   BuildSystem = MSBuild
+                   BuildTaskAssembly = PresentationBuildTasks, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+                   BuildType = Clean
+                   BuiltProjectOutputGroupDependenciesDependsOn = 
+                         ;
+                         
+                         ;
+                         BuildOnlySettings;
+                         PrepareForBuild;
+                         AssignTargetPaths;
+                         ResolveReferences
+                       
+                       
+                   BuiltProjectOutputGroupDependsOn = PrepareForBuild
+                   CAExcludePath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\atlmfc\include;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\include;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\Include\um;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\Include\um;
+                   CharacterSet = Unicode
+                   CleanDependsOn = 
+                         
+                         _PrepareForClean;
+                         
+                         
+                         BeforeClean;
+                         UnmanagedUnregistration;
+                         CoreClean;
+                         CleanReferencedProjects;
+                         CleanPublishFolder;
+                         AfterClean
+                       ;
+                         EntityClean;
+                       ;
+                       ;
+                         CppClean
+                       
+                   CleanFile = Server.vcxproj.FileListAbsolute.txt
+                   CLRSupport = false
+                   ClYieldDuringToolExecution = true
+                   CodeAnalysisApplyLogFileXsl = false
+                   CodeAnalysisFailOnMissingRules = false
+                   CodeAnalysisForceOutput = true
+                   CodeAnalysisGenerateSuccessFile = true
+                   CodeAnalysisIgnoreGeneratedCode = true
+                   CodeAnalysisIgnoreInvalidTargets = true
+                   CodeAnalysisIgnoreMissingIndirectReferences = false
+                   CodeAnalysisInputAssembly = C:\Users\Cristian\Desktop\Test BitDefender\Release\Server.exe
+                   CodeAnalysisLogFile = C:\Users\Cristian\Desktop\Test BitDefender\Release\Server.exe.CodeAnalysisLog.xml
+                   CodeAnalysisModuleSuppressionsFile = GlobalSuppressions.cpp
+                   CodeAnalysisOutputToConsole = false
+                   CodeAnalysisOverrideRuleVisibilities = false
+                   CodeAnalysisPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\Static Analysis Tools\FxCop\
+                   CodeAnalysisQuiet = false
+                   CodeAnalysisRuleDirectories = ;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\Static Analysis Tools\FxCop\\Rules
+                   CodeAnalysisRuleSet = NativeRecommendedRules.ruleset
+                   CodeAnalysisRuleSetDirectories = ;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\Static Analysis Tools\\Rule Sets
+                   CodeAnalysisSaveMessagesToReport = Active
+                   CodeAnalysisSearchGlobalAssemblyCache = true
+                   CodeAnalysisStaticAnalysisDirectory = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\Static Analysis Tools\
+                   CodeAnalysisSucceededFile = C:\Users\Cristian\Desktop\Test BitDefender\Release\Server.exe.lastcodeanalysissucceeded
+                   CodeAnalysisSummary = false
+                   CodeAnalysisTargets = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\v15.0\CodeAnalysis\Microsoft.CodeAnalysis.targets
+                   CodeAnalysisTimeout = 120
+                   CodeAnalysisTreatWarningsAsErrors = false
+                   CodeAnalysisUpdateProject = false
+                   CodeAnalysisUseTypeNameInSuppression = true
+                   CodeAnalysisVerbose = false
+                   CommonBuildOnlyTargets = 
+                         PrepareForBuild;
+                         ResolveReferences;
+                       
+                   CommonOutputGroupsDependsOn = 
+                         ;
+                         BuildOnlySettings;
+                         PrepareForBuild;
+                         AssignTargetPaths;
+                         ResolveReferences
+                       
+                   CommonProgramFiles = C:\Program Files (x86)\Common Files
+                   CommonProgramW6432 = C:\Program Files\Common Files
+                   CommonTargetsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets
+                   CommonXamlResourcesDirectory = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\en-US\
+                   CompileDependsOn = 
+                           
+                         ResolveReferences;
+                         ResolveKeySource;
+                         SetWin32ManifestProperties;
+                         FindReferenceAssembliesForReferences;
+                         _GenerateCompileInputs;
+                         BeforeCompile;
+                         _TimeStampBeforeCompile;
+                         _GenerateCompileDependencyCache;
+                         CoreCompile;
+                         _TimeStampAfterCompile;
+                         AfterCompile;
+                       ;
+                           _AfterCompileWinFXInternal
+                       
+                   CompileLicxFilesDependsOn = 
+                   CompileTargetNameForTemporaryAssembly = CompileTemporaryAssembly
+                   ComputeCompileInputsTargets = 
+                         
+                         
+                         ;
+                         ComputeMIDLGeneratedCompileInputs;
+                       ;
+                         ComputeCLInputPDBName;
+                         ComputeReferenceCLInput;
+                         WarnCompileDuplicatedFilename
+                       ;
+                         FixupCLCompileOptions;
+                       
+                   ComputeImpLibInputsTargets = 
+                           
+                         
+                         
+                         
+                         ;
+                         ComputeRCGeneratedLibInputs;
+                       ;
+                         ComputeRCGeneratedImpLibInputs;
+                       ;
+                         ComputeCustomBuildOutput;
+                       ;
+                         ComputeCLGeneratedImpLibInputs;
+                       ;
+                           ComputeImpLibInputsFromProject;
+                         
+                   ComputeIntermediateSatelliteAssembliesDependsOn = 
+                         CreateManifestResourceNames
+                       
+                   ComputeLibInputsTargets = 
+                         ComputeLibAdditionalOptions;
+                         
+                         
+                           
+                         
+                         
+                         ;
+                         ComputeRCGeneratedLibInputs;
+                       ;
+                         ComputeCustomBuildOutput;
+                       ;
+                         ComputeCLGeneratedLibInputs;
+                       ;
+                           ComputeLibInputsFromProject;
+                         ;
+                         ComputeReferenceLibInputs;
+                       
+                       
+                   ComputeLinkInputsTargets = 
+                         
+                           
+                         
+                         
+                         
+                         ;
+                         ComputeRCGeneratedLinkInputs;
+                       ;
+                         ComputeManifestGeneratedLinkerInputs;
+                       ;
+                         ComputeCustomBuildOutput;
+                       ;
+                         ComputeCLGeneratedLinkInputs;
+                       ;
+                           ComputeLinkInputsFromProject;
+                         ;
+                         ComputeReferenceLinkInputs;
+                       
+                   ComputeManifestInputsTargets = 
+                         ;
+                         ComputeManifestInputsTargets;
+                       
+                   COMPUTERNAME = CRISTIANLAPTOP
+                   ComReferenceExecuteAsTool = false
+                   ComReferenceNoClassMembers = false
+                   ComSpec = C:\WINDOWS\system32\cmd.exe
+                   Configuration = Release
+                   ConfigurationName = Release
+                   ConfigurationType = Application
+                   ConsiderPlatformAsProcessorArchitecture = true
+                   ContentFilesProjectOutputGroupDependsOn = PrepareForBuild;AssignTargetPaths;PrepareForBuild;AssignTargetPaths;MakeDirsForFxc;_CreateCopyFileItems;
+                   ContinueOnError = false
+                   CopyFileAfterTargets = PreBuildEvent
+                   CopyFileBeforeTargets = Midl
+                   CopyNuGetImplementations = true
+                   CoreBuildDependsOn = 
+                         BuildOnlySettings;
+                         PrepareForBuild;
+                         PreBuildEvent;
+                         ResolveReferences;
+                         PrepareResources;
+                         ResolveKeySource;
+                         Compile;
+                         ExportWindowsMDFile;
+                         UnmanagedUnregistration;
+                         GenerateSerializationAssemblies;
+                         CreateSatelliteAssemblies;
+                         GenerateManifests;
+                         GetTargetPath;
+                         PrepareForRun;
+                         UnmanagedRegistration;
+                         IncrementalClean;
+                         PostBuildEvent
+                       
+                   CoreCleanDependsOn = 
+                   CoreCompileDependsOn = 
+                           DesignTimeXamlMarkupCompilation;
+                           
+                             DesignTimeMarkupCompilation;
+                             
+                         
+                       
+                   CoreCppCleanDependsOn = 
+                   CoreResGenDependsOn = FindReferenceAssembliesForReferences
+                   CppCleanDependsOn = 
+                         BeforeCppClean;
+                         ;
+                         CoreCppClean;
+                         AfterCppClean;
+                       ;PGInstrumentedClean
+                   CppCleanLogFile = Server.Build.CppClean.log
+                   CppWinRT_IncludePath = C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\cppwinrt
+                   CreateCustomManifestResourceNamesDependsOn = 
+                   CreateHardLinksForCopyAdditionalFilesIfPossible = false
+                   CreateManifestResourceNamesDependsOn = 
+                   CreateSatelliteAssembliesDependsOn = 
+                         _GenerateSatelliteAssemblyInputs;
+                         ComputeIntermediateSatelliteAssemblies;
+                         GenerateSatelliteAssemblies
+                       
+                   CreateSymbolicLinksForCopyAdditionalFilesIfPossible = false
+                   CRTDefinitionalFile = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\VCProjectDefault\Microsoft.AppX.VCFrameworkReferences.xml
+                   CrtSDKReferenceInclude = Microsoft.VCLibs, Version=14.0
+                   CrtSDKReferenceVersion = 14.0
+                   CurrentSolutionConfigurationContents = <SolutionConfiguration>
+                   <ProjectConfiguration Project="{b79a483a-09ad-4f43-9179-cf10846bbdce}" AbsolutePath="C:\Users\Cristian\Desktop\Test BitDefender\Server\Server.vcxproj">Release|Win32</ProjectConfiguration>
+                   <ProjectConfiguration Project="{d47e48fb-7ffa-4487-a809-b669e55b0d24}" AbsolutePath="C:\Users\Cristian\Desktop\Test BitDefender\Client\Client.vcxproj">Release|Win32</ProjectConfiguration>
+                   <ProjectConfiguration Project="{2927f06d-9940-433f-92c0-794db7f8b65c}" AbsolutePath="C:\Users\Cristian\Desktop\Test BitDefender\TextCheck\TextCheck.vcxproj">Release|Win32</ProjectConfiguration>
+                   <ProjectConfiguration Project="{980551ec-c92f-4744-9643-32a7c6bd9eab}" AbsolutePath="C:\Users\Cristian\Desktop\Test BitDefender\BinaryCheck\BinaryCheck.vcxproj">Release|Win32</ProjectConfiguration>
+                   </SolutionConfiguration>
+                   CustomAfterMicrosoftCommonProps = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\v15.0\Custom.After.Microsoft.Common.props
+                   CustomAfterMicrosoftCommonTargets = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\v15.0\Custom.After.Microsoft.Common.targets
+                   CustomBeforeMicrosoftCommonProps = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\v15.0\Custom.Before.Microsoft.Common.props
+                   CustomBeforeMicrosoftCommonTargets = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\v15.0\Custom.Before.Microsoft.Common.targets
+                   CustomBuildAfterTargets = BscMake
+                   CustomBuildBeforeTargets = PostBuildEvent
+                   CustomBuildToolAfterTargets = PreBuildEvent
+                   CustomBuildToolBeforeTargets = Midl
+                   DebugCppRuntimeFilesPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\redist\x86
+                   DebuggerFlavor = WindowsLocalDebugger
+                   DebuggerLaunchApplication = true
+                   DebuggerRequireAuthentication = true
+                   DebuggerType = NativeOnly
+                   DebugSymbolsProjectOutputGroupDependenciesDependsOn = 
+                         ;
+                         
+                         ;
+                         BuildOnlySettings;
+                         PrepareForBuild;
+                         AssignTargetPaths;
+                         ResolveReferences
+                       
+                       
+                   DebugSymbolsProjectOutputGroupDependsOn = 
+                   DefaultLanguageSourceExtension = .cpp
+                   DefaultPlatformToolset = v141
+                   DefaultToolArchitecture = Native32Bit
+                   DefaultWindowsSDKVersion = 8.1
+                   DefineCommonReferenceSchemas = 
+                   DefineExplicitDefaults = true
+                   DelayImplib = Delayimp.lib
+                   DelaySign = 
+                   DeploymentType = Installed
+                   DesignTimeBuildInitTargets = _PrepareForReferenceResolution;;InitGetClCommandLines;ResolveReferences;FixupReferences
+                   DesignTimeIntermediateOutputPath = Release\InProcessTempFiles\
+                   DesignTimeResolveAssemblyReferencesDependsOn = 
+                         GetFrameworkPaths;
+                         GetReferenceAssemblyPaths;
+                         ResolveReferences
+                       
+                   DesktopBridgeComFilesOutputGroupDependsOn = 
+                         
+                         ;
+                         BuildOnlySettings;
+                         PrepareForBuild;
+                         AssignTargetPaths;
+                         ResolveReferences
+                       
+                         ;
+                       
+                   DesktopBridgeCommonTargets = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\DesktopBridge\Microsoft.DesktopBridge.Common.targets
+                   DesktopBridgeCopyLocalOutputGroupDependsOn = 
+                         
+                         ;
+                         BuildOnlySettings;
+                         PrepareForBuild;
+                         AssignTargetPaths;
+                         ResolveReferences
+                       
+                         ;
+                       
+                   DesktopBridgeOutputGroupsDependsOn = 
+                         ;
+                         BuildOnlySettings;
+                         PrepareForBuild;
+                         AssignTargetPaths;
+                         ResolveReferences
+                       
+                   DetermineProjectTypeTargets = _PrepareForReferenceResolution;
+                   DevEnvDir = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\
+                   DockerBuildTasksAssembly = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Sdks\Microsoft.Docker.Sdk\build\..\tools\Microsoft.Docker.BuildTasks.dll
+                   DockerIntermediateOutputPath = obj\Docker
+                   DockerPublishDirectory = obj\Docker\publish
+                   DocumentationProjectOutputGroupDependenciesDependsOn = 
+                         ;
+                         
+                         ;
+                         BuildOnlySettings;
+                         PrepareForBuild;
+                         AssignTargetPaths;
+                         ResolveReferences
+                       
+                       
+                   DocumentationProjectOutputGroupDependsOn = ResolvedXDCMake;ComputeCLCompileGeneratedXDCFiles
+                   DocumentLibraryDependencies = true
+                   DotNetNativeLibraryVersion = 
+                   DotNetSdk_IncludePath = C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\Include\um
+                   DotNetSdk_LibraryPath = C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\lib\um
+                   DotNetSdk_LibraryPath_arm = C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\lib\um\arm
+                   DotNetSdk_LibraryPath_arm64 = C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\lib\um\arm64
+                   DotNetSdk_LibraryPath_x64 = C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\lib\um\x64
+                   DotNetSdk_LibraryPath_x86 = C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\lib\um\x86
+                   DotNetSdkRoot = C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\
+                   EmbeddedWin32Manifest = 
+                   EmbedManifest = true
+                   EmbedManifestBy = MT
+                   EnableManagedIncrementalBuild = false
+                   EntityDeployDependsOn = 
+                   EntityDeployIntermediateResourcePath = Release\edmxResourcesToEmbed\
+                   EspXtensions = CppCoreCheck.dll;
+                   ExcludePath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\include;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\atlmfc\include;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Auxiliary\VS\include;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\ucrt;;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\Include\um;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\Include\um;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86;C:\Program Files (x86)\Windows Kits\10\bin\10.0.17134.0\x86;;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\tools;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\ide;C:\Program Files (x86)\HTML Help Workshop;;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin;C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\atlmfc\lib\x86;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Auxiliary\VS\lib\x86;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\ucrt\x86;;;C:\WINDOWS
+                   ExecutablePath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86;C:\Program Files (x86)\Windows Kits\10\bin\10.0.17134.0\x86;;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\tools;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\ide;C:\Program Files (x86)\HTML Help Workshop;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin;C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\;C:\WINDOWS\SysWow64;;C:\Program Files (x86)\Python36-32\Scripts\;C:\Program Files (x86)\Python36-32\;C:\Program Files\Haskell\bin;C:\Program Files\Haskell Platform\8.2.1\lib\extralibs\bin;C:\Program Files\Haskell Platform\8.2.1\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Java\jdk1.8.0_66\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\CodeBlocks\MinGW\bin\;C:\Program Files\Notepad++;C:\Windows\Microsoft.NET\Framework\v4.0.30319;D:\MatLab\runtime\win64;D:\MatLab\bin;D:\MatLab\polyspace\bin;D:\AndroidSDK\platform-tools;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\Haskell Platform\8.2.1\mingw\bin;.;C:\Program Files\Git\cmd;C:\Program Files (x86)\Tesseract-OCR;C:\Users\Cristian\AppData\Roaming\cabal\bin;C:\Users\Cristian\AppData\Local\Microsoft\WindowsApps;C:\Users\Cristian\AppData\Local\GitHubDesktop\bin;
+                   ExpandSDKAllowedReferenceExtensions = 
+                         .winmd;
+                         .dll
+                       
+                   ExpandSDKReferencesDependsOn = 
+                         ResolveSDKReferences
+                       
+                   ExtensionsToDeleteOnClean = *.cdf;*.cache;*.obj;*.obj.enc;*.ilk;*.ipdb;*.iobj;*.resources;*.tlb;*.tli;*.tlh;*.tmp;*.rsp;*.pgc;*.pgd;*.meta;*.tlog;*.manifest;*.res;*.pch;*.exp;*.idb;*.rep;*.xdc;*.pdb;*_manifest.rc;*.bsc;*.sbr;*.xml;*.metagen;*.bi;C:\Users\Cristian\Desktop\Test BitDefender\Release\Server.exe.manifest;C:\Users\Cristian\Desktop\Test BitDefender\Release\Server.tlb;C:\Users\Cristian\Desktop\Test BitDefender\Release\Server.pdb;C:\Users\Cristian\Desktop\Test BitDefender\Release\Server.exe;C:\Users\Cristian\Desktop\Test BitDefender\Release\Server.bsc;C:\Users\Cristian\Desktop\Test BitDefender\Release\Server.ilk;C:\Users\Cristian\Desktop\Test BitDefender\Release\Server.exe.intermediate.manifest
+                   FindInvalidProjectReferencesDependsOn = 
+                         GetReferenceTargetPlatformMonikers
+                       
+                   FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+                   FPS_BROWSER_USER_PROFILE_STRING = Default
+                   Framework20Dir = @(_TargetFramework20DirectoryItem)
+                   Framework30Dir = @(_TargetFramework30DirectoryItem)
+                   Framework35Dir = @(_TargetFramework35DirectoryItem)
+                   Framework40Dir = @(_TargetFramework40DirectoryItem)
+                   FrameworkDir = C:\Windows\Microsoft.NET\Framework\
+                   FrameworkDir_110 = C:\Windows\Microsoft.NET\Framework\
+                   FrameworkPathOverride = C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0
+                   FrameworkRegistryBase = Software\Microsoft\.NETFramework
+                   FrameworkSdkDir = C:\Program Files (x86)\Windows Kits\10\
+                   FrameworkSDKRoot = C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\
+                   FrameworkVersion = v4.6
+                   FullReferenceAssemblyNames = Full
+                   FxCompileAfterTargets = CustomBuild
+                   FxCompileBeforeTargets = Midl
+                   GenerateBindingRedirectsOutputType = true
+                   GenerateClickOnceManifests = 
+                   GeneratedFileExtension = .g.cpp
+                   GenerateManifest = true
+                   GenerateManifestsDependsOn = 
+                         SetWin32ManifestProperties;
+                         GenerateApplicationManifest;
+                         GenerateDeploymentManifest
+                       
+                   GenerateTargetFrameworkAttribute = false
+                   GetCopyToOutputDirectoryItemsDependsOn = 
+                         AssignTargetPaths;
+                         _SplitProjectReferencesByFileExistence;
+                         _GetProjectReferenceTargetFrameworkProperties
+                       
+                   GetFrameworkPathsDependsOn = 
+                   GetReferenceAssemblyPathsDependsOn = _PrepareForReferenceResolution;
+                           ;
+                           GetWinFXPath
+                       
+                   GetTargetPathDependsOn = _PrepareForReferenceResolution;GetResolvedWinMD;
+                   GetTargetPathWithTargetPlatformMonikerDependsOn = 
+                   GPURefDebuggerBreakOnAllThreads = GPURefBreakOncePerWarp
+                   GTK_BASEPATH = C:\Program Files (x86)\GtkSharp\2.12\
+                   HideWarningsAndErrors = false
+                   HighEntropyVA = false
+                   HOMEDRIVE = C:
+                   HOMEPATH = \Users\Cristian
+                   HostInBrowser = false
+                   IgnoreImportLibrary = false
+                   ImplicitlyExpandDesignTimeFacadesDependsOn = 
+                         ;
+                         GetReferenceAssemblyPaths
+                       
+                   ImportByWildcardAfterMicrosoftCommonProps = true
+                   ImportByWildcardAfterMicrosoftCommonTargets = true
+                   ImportByWildcardAfterMicrosoftNetFrameworkProps = true
+                   ImportByWildcardAfterMicrosoftNetFrameworkTargets = true
+                   ImportByWildcardBeforeMicrosoftCommonProps = true
+                   ImportByWildcardBeforeMicrosoftCommonTargets = true
+                   ImportByWildcardBeforeMicrosoftNetFrameworkProps = true
+                   ImportByWildcardBeforeMicrosoftNetFrameworkTargets = true
+                   ImportDirectoryBuildProps = true
+                   ImportDirectoryBuildTargets = true
+                   ImportProjectExtensionProps = true
+                   ImportProjectExtensionTargets = true
+                   ImportUserLocationsByWildcardAfterMicrosoftCommonProps = true
+                   ImportUserLocationsByWildcardAfterMicrosoftCommonTargets = true
+                   ImportUserLocationsByWildcardAfterMicrosoftNetFrameworkProps = true
+                   ImportUserLocationsByWildcardAfterMicrosoftNetFrameworkTargets = true
+                   ImportUserLocationsByWildcardBeforeMicrosoftCommonProps = true
+                   ImportUserLocationsByWildcardBeforeMicrosoftCommonTargets = true
+                   ImportUserLocationsByWildcardBeforeMicrosoftNetFrameworkProps = true
+                   ImportUserLocationsByWildcardBeforeMicrosoftNetFrameworkTargets = true
+                   ImportXamlTargets = true
+                   IncludeFrameworkReferencesFromNuGet = true
+                   IncludePath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\include;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\atlmfc\include;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Auxiliary\VS\include;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\ucrt;;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\Include\um;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\Include\um;
+                   IncludeVersionInInteropName = true
+                   IntDir = Release\
+                   IntermediateOutputPath = Release\
+                   InteropOutputPath = Interop\
+                   iOSTargetsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\MDD\iOS\V150\
+                   IsApplication = true
+                   IsRestoreTargetsFileLoaded = true
+                   Keyword = Win32Proj
+                   KIT_SHARED_IncludePath = C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\shared
+                   LangID = 1033
+                   LangName = en-US
+                   Language = C++
+                   LastBuildState = Release\Server.tlog\Server.lastbuildstate
+                   LastBuildUnsuccessful = Release\Server.tlog\unsuccessfulbuild
+                   LibraryPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\atlmfc\lib\x86;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Auxiliary\VS\lib\x86;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\ucrt\x86;;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\lib\um\x86;;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\Lib\um\x86
+                   LibraryWPath = C:\Program Files (x86)\Windows Kits\10\References;
+                   LinkCompiled = true
+                   LinkIncremental = false
+                   LoadTimeSensitiveProperties = 
+                         ;
+                       
+                   LoadTimeSensitiveTargets = 
+                         ;
+                         XamlMarkupCompilePass1;
+                       
+                   LOCALAPPDATA = C:\Users\Cristian\AppData\Local
+                   LocalDebuggerAttach = False
+                   LocalDebuggerCommand = C:\Users\Cristian\Desktop\Test BitDefender\Release\Server.exe
+                   LocalDebuggerDebuggerType = Auto
+                   LocalDebuggerMergeEnvironment = true
+                   LocalDebuggerSQLDebugging = False
+                   LocalDebuggerWorkingDirectory = C:\Users\Cristian\Desktop\Test BitDefender\Server\
+                   LocalGPUDebuggerTargetType = {F4453496-1DB8-47F8-A7D5-31EBDDC2EC96}
+                   LocalizationDirectivesToLocFile = None
+                   LOGONSERVER = \\CRISTIANLAPTOP
+                   ManagedAssembly = false
+                   ManagedExpressionEvaluatorRegKey = 
+                   ManagedIncrementalBuildProcessDependencyGraphAfterTarget = 
+                         ClCompile
+                       
+                   ManagedIncrementalBuildProcessDependencyGraphBeforeTarget = 
+                         ClCompile
+                       
+                   MarkupCompilePass2ForMainAssemblyDependsOn = 
+                                        GenerateTemporaryTargetAssembly;
+                                        MarkupCompilePass2;
+                                        AfterMarkupCompilePass2;
+                                        CleanupTemporaryTargetAssembly
+                          
+                   MaxTargetPath = 100
+                   MetagenInputTarget = Link
+                   MetaGenTargets = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\\Microsoft.MetaGen.targets
+                   MicrosoftCommonPropsHasBeenImported = true
+                   MicrosoftNETBuildExtensionsTargets = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\Microsoft.NET.Build.Extensions.targets
+                   MicrosoftNETBuildExtensionsTasksAssembly = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\\tools\net46\Microsoft.NET.Build.Extensions.Tasks.dll
+                   MidlYieldDuringToolExecution = true
+                   MpiDebuggerCleanupDeployment = True
+                   MpiDebuggerDebuggerType = Auto
+                   MpiDebuggerDeployCommonRuntime = True
+                   MpiDebuggerNetworkSecurityMode = AnyAddress
+                   MpiDebuggerSchedulerNode = localhost/1
+                   MpiDebuggerSchedulerTimeout = 5000
+                   MsAppxPackageTargets = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\v15.0\AppxPackage\Microsoft.AppXPackage.Targets
+                   MSBuild_ExecutablePath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin;C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\
+                   MSBuildAllProjects = ;C:\Users\Cristian\Desktop\Test BitDefender\Server\Server.vcxproj;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.targets;C:\Users\Cristian\Desktop\Test BitDefender\Server\Server.vcxproj.user;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.NETFramework.CurrentVersion.props;C:\Users\Cristian\Desktop\Test BitDefender\Server\Server.vcxproj;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets;C:\Users\Cristian\Desktop\Test BitDefender\Server\Server.vcxproj.user;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.NETFramework.CurrentVersion.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Xaml.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Microsoft.Common.targets\ImportAfter\Microsoft.NET.Build.Extensions.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\Microsoft.NET.Build.Extensions.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\Microsoft.NET.Build.Extensions.NETFramework.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\Microsoft.NET.Build.Extensions.ConflictResolution.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\Microsoft.NET.DefaultPackageConflictOverrides.targets;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\NuGet\15.0\Microsoft.NuGet.targets
+                   MSBuildAssemblyVersion = 15.0
+                   MSBuildBinPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin
+                   MSBuildExtensionsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild
+                   MSBuildExtensionsPath32 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild
+                   MSBuildExtensionsPath64 = C:\Program Files\MSBuild
+                   MSBuildFrameworkToolsPath = C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\
+                   MSBuildFrameworkToolsPath32 = C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\
+                   MSBuildFrameworkToolsPath64 = C:\WINDOWS\Microsoft.NET\Framework64\v4.0.30319\
+                   MSBuildFrameworkToolsRoot = C:\WINDOWS\Microsoft.NET\Framework\
+                   MSBuildLastTaskResult = true
+                   MSBuildLoadMicrosoftTargetsReadOnly = true
+                   MSBuildNodeCount = 8
+                   MSBuildProgramFiles32 = C:\Program Files (x86)
+                   MSBuildProjectDefaultTargets = Build
+                   MSBuildProjectDirectory = C:\Users\Cristian\Desktop\Test BitDefender\Server
+                   MSBuildProjectDirectoryNoRoot = Users\Cristian\Desktop\Test BitDefender\Server
+                   MSBuildProjectExtension = .vcxproj
+                   MSBuildProjectExtensionsPath = C:\Users\Cristian\Desktop\Test BitDefender\Server\obj\
+                   MSBuildProjectFile = Server.vcxproj
+                   MSBuildProjectFullPath = C:\Users\Cristian\Desktop\Test BitDefender\Server\Server.vcxproj
+                   MSBuildProjectName = Server
+                   MSBuildRuntimeType = Full
+                   MSBuildRuntimeVersion = 4.0.30319
+                   MSBuildSDKsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Sdks
+                   MSBuildStartupDirectory = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE
+                   MSBuildToolsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin
+                   MSBuildToolsPath32 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin
+                   MSBuildToolsPath64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\amd64
+                   MSBuildToolsRoot = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild
+                   MSBuildToolsVersion = 15.0
+                   MSBuildUserExtensionsPath = C:\Users\Cristian\AppData\Local\Microsoft\MSBuild
+                   MSBuildVersion = 15.8.166
+                   MsTestToolsTargets = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\v15.0\TeamTest\Microsoft.TeamTest.targets
+                   MultiToolTask = false
+                   NetFrameworkPropsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.NETFramework.CurrentVersion.props
+                   NetFrameworkTargetsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.NETFramework.CurrentVersion.targets
+                   NetfxCoreRuntimeSettingsTargets = C:\Program Files (x86)\MSBuild\15.0\.Net\CoreRuntime\Microsoft.Net.CoreRuntime.Settings.targets
+                   NetfxCoreRuntimeTargets = C:\Program Files (x86)\MSBuild\15.0\.Net\CoreRuntime\Microsoft.Net.CoreRuntime.targets
+                   NETFXKitsDir = C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\
+                   NETFXSDKDir = C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\
+                   NuGetProps = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\NuGet\15.0\Microsoft.NuGet.props
+                   NuGetRestoreTargets = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\..\..\..\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets
+                   NuGetRuntimeIdentifier = win-x86
+                   NuGetTargetFrameworkMonikerToInject = .NETCore,Version=v5.0
+                   NuGetTargetMoniker = .NETFramework,Version=v4.0
+                   NuGetTargetMonikerToInject = .NETCore,Version=v5.0
+                   NuGetTargets = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\NuGet\15.0\Microsoft.NuGet.targets
+                   NUMBER_OF_PROCESSORS = 8
+                   OneDrive = C:\Users\Cristian\OneDrive
+                   OnlyReferenceAndBuildProjectsEnabledInSolutionConfiguration = true
+                   OS = Windows_NT
+                   OSVersion = 5.1.2600.0
+                   OutDir = C:\Users\Cristian\Desktop\Test BitDefender\Release\
+                   OutDirWasSpecified = false
+                   OutputPath = C:\Users\Cristian\Desktop\Test BitDefender\Release\
+                   OutputType = exe
+                   OverwriteReadOnlyFiles = false
+                   Path = C:\Program Files (x86)\Python36-32\Scripts\;C:\Program Files (x86)\Python36-32\;C:\Program Files\Haskell\bin;C:\Program Files\Haskell Platform\8.2.1\lib\extralibs\bin;C:\Program Files\Haskell Platform\8.2.1\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Java\jdk1.8.0_66\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\CodeBlocks\MinGW\bin\;C:\Program Files\Notepad++;C:\Windows\Microsoft.NET\Framework\v4.0.30319;D:\MatLab\runtime\win64;D:\MatLab\bin;D:\MatLab\polyspace\bin;D:\AndroidSDK\platform-tools;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\Haskell Platform\8.2.1\mingw\bin;.;C:\Program Files\Git\cmd;C:\Program Files (x86)\Tesseract-OCR;C:\Users\Cristian\AppData\Roaming\cabal\bin;C:\Users\Cristian\AppData\Local\Microsoft\WindowsApps;C:\Users\Cristian\AppData\Local\GitHubDesktop\bin
+                   PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
+                   PkgDefApplicationConfigFile = C:\Users\Cristian\AppData\Local\Microsoft\VisualStudio\15.0_c5598afe\devenv.exe.config
+                   Platform = Win32
+                   Platform_Actual = Win32
+                   PlatformArchitecture = 32
+                   PlatformName = Win32
+                   PlatformPropsFound = true
+                   PlatformShortName = x86
+                   PlatformTarget = x86
+                   PlatformTargetAsMSBuildArchitecture = x86
+                   PlatformTargetAsMSBuildArchitectureExplicitlySet = false
+                   PlatformTargetsFound = true
+                   PlatformToolset = v141
+                   PlatformToolsetVersion = 141
+                   PostBuildEventDependsOn = 
+                   PostBuildEventUseInBuild = true
+                   PreBuildEventDependsOn = 
+                   PreBuildEventUseInBuild = true
+                   Prefer32Bit = false
+                   PreferredToolArchitecture = x86
+                   PreLinkEventUseInBuild = true
+                   PrepareForBuildDependsOn = PlatformPrepareForBuild;_CheckWindowsSDKInstalled;GetFrameworkPaths;GetReferenceAssemblyPaths;AssignLinkMetadata;SetCABuildNativeEnvironmentVariables
+                   PrepareForRunDependsOn = 
+                         CopyFilesToOutputDirectory
+                       
+                   PrepareProjectReferencesDependsOn = 
+                         AssignProjectConfiguration;
+                         _SplitProjectReferencesByFileExistence;
+                         _GetProjectReferenceTargetFrameworkProperties
+                       
+                   PrepareResourceNamesDependsOn = 
+                                       AssignWinFXEmbeddedResource;
+                                       
+                         AssignTargetPaths;
+                         SplitResourcesByCulture;
+                         CreateManifestResourceNames;
+                         CreateCustomManifestResourceNames
+                       
+                         
+                   PrepareResourcesDependsOn = ResolveNuGetPackageAssets;
+                         XamlMarkupCompilePass1;
+                         XamlMarkupCompilePass2;
+                         
+                                   MarkupCompilePass1;
+                                   AfterMarkupCompilePass1;
+                                   MarkupCompilePass2ForMainAssembly;
+                                   FileClassification;
+                                   MainResourcesGeneration;
+                                   
+                         PrepareResourceNames;
+                         ResGen;
+                         CompileLicxFiles
+                       
+                          
+                       
+                   PROCESSOR_ARCHITECTURE = x86
+                   PROCESSOR_ARCHITEW6432 = AMD64
+                   PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
+                   PROCESSOR_LEVEL = 6
+                   PROCESSOR_REVISION = 3c03
+                   ProcessorArchitecture = x86
+                   ProduceReferenceAssembly = false
+                   ProgramData = C:\ProgramData
+                   ProgramFiles = C:\Program Files (x86)
+                   ProgramW6432 = C:\Program Files
+                   ProjectDesignTimeAssemblyResolutionSearchPaths = 
+                         {CandidateAssemblyFiles};
+                         C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\atlmfc\lib\x86;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86;;
+                         {HintPathFromItem};
+                         {TargetFrameworkDirectory};
+                         {Registry:Software\Microsoft\.NETFramework,v4.0,AssemblyFoldersEx};
+                         {RawFileName};
+                         C:\Users\Cristian\Desktop\Test BitDefender\Release\
+                       
+                   ProjectDir = C:\Users\Cristian\Desktop\Test BitDefender\Server\
+                   ProjectEvaluationFingerprint = Release|Win32|C:\Users\Cristian\Desktop\Test BitDefender\|
+                   ProjectExt = .vcxproj
+                   ProjectFileName = Server.vcxproj
+                   ProjectFlavor = Client
+                   ProjectGuid = {B79A483A-09AD-4F43-9179-CF10846BBDCE}
+                   ProjectLockFile = obj\project.assets.json
+                   ProjectName = Server
+                   ProjectNSettingsTargets = C:\Program Files (x86)\MSBuild\15.0\.Net\.NetNative\15.0.24211\Microsoft.NetNative.Settings.targets
+                   ProjectNTargets = C:\Program Files (x86)\MSBuild\15.0\.Net\.NetNative\15.0.24211\Microsoft.NetNative.targets
+                   ProjectPath = C:\Users\Cristian\Desktop\Test BitDefender\Server\Server.vcxproj
+                   PSModulePath = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+                   PUBLIC = C:\Users\Public
+                   PublishableProject = true
+                   PublishBuildDependsOn = 
+                               BuildOnlySettings;
+                               PrepareForBuild;
+                               ResolveReferences;
+                               PrepareResources;
+                               ResolveKeySource;
+                               PrepareResourcesForSatelliteAssemblies;
+                               GenerateSerializationAssemblies;
+                               CreateSatelliteAssemblies;
+                           
+                   PublishDependsOn = 
+                         SetGenerateManifests;
+                         Build;
+                         PublishOnly
+                       
+                   PublishDir = C:\Users\Cristian\Desktop\Test BitDefender\Release\app.publish\
+                   PublishOnlyDependsOn = 
+                         SetGenerateManifests;
+                         PublishBuild;
+                         BeforePublish;
+                         GenerateManifests;
+                         CopyFilesToOutputDirectory;
+                         _CopyFilesToPublishFolder;
+                         _DeploymentGenerateBootstrapper;
+                         ResolveKeySource;
+                         _DeploymentSignClickOnceDeployment;
+                         AfterPublish
+                       
+                   RebuildDependsOn = SetTelemetryEnvironmentVariables;
+                         _PrepareForRebuild;
+                         
+                         BeforeRebuild;
+                         Clean;
+                         Build;
+                         AfterRebuild;
+                       ;
+                       
+                   ReferenceCopyLocalPathsOutputGroupDependsOn = 
+                         ;
+                         
+                         ;
+                         BuildOnlySettings;
+                         PrepareForBuild;
+                         AssignTargetPaths;
+                         ResolveReferences
+                       
+                       
+                   ReferencePath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\atlmfc\lib\x86;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86;
+                   RemoteDebuggerAttach = False
+                   RemoteDebuggerConnection = RemoteWithAuthentication
+                   RemoteDebuggerDebuggerType = Auto
+                   RemoteDebuggerDeployDebugCppRuntime = true
+                   RemoteDebuggerServerName = CRISTIANLAPTOP
+                   RemoteDebuggerSQLDebugging = False
+                   RemoteDebuggerWorkingDirectory = C:\Users\Cristian\Desktop\Test BitDefender\Server\
+                   RemoteGPUDebuggerTargetType = {F4453496-1DB8-47F8-A7D5-31EBDDC2EC96}
+                   ReportingServicesTargets = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\v15.0\ReportingServices\Microsoft.ReportingServices.targets
+                   RequiredBundles = Microsoft.VisualStudio.Component.VC.Tools.x86.x64;
+                   ResGenDependsOn = ResolveAssemblyReferences;SplitResourcesByCulture;BeforeResGen;CoreResGen;AfterResGen
+                   ResGenExecuteAsTool = false
+                   ResolveAssemblyConflicts = true
+                   ResolveAssemblyReferencesDependsOn = _PrepareForReferenceResolution;
+                         ResolveProjectReferences;
+                         FindInvalidProjectReferences;
+                         GetFrameworkPaths;
+                         GetReferenceAssemblyPaths;
+                         PrepareForBuild;
+                         ResolveSDKReferences;
+                         ExpandSDKReferences;
+                       ;ResolveNuGetPackageAssets
+                   ResolveNuGetPackageAssetsDependsOn = ResolveProjectReferences
+                   ResolveNuGetPackages = true
+                   ResolveReferencesDependsOn = _PrepareForReferenceResolution;ComputeCrtSDKReference;
+                         
+                         
+                         BeforeResolveReferences;
+                         AssignProjectConfiguration;
+                         ResolveProjectReferences;
+                         FindInvalidProjectReferences;
+                         ResolveNativeReferences;
+                         ResolveAssemblyReferences;
+                         GenerateBindingRedirects;
+                         ResolveComReferences;
+                         AfterResolveReferences
+                       ;
+                         ImplicitlyExpandDesignTimeFacades
+                       ;
+                         ResolveTestReferences
+                       
+                   ResolveSDKReferencesDependsOn = _PrepareForReferenceResolution;ComputeCrtSDKReference;
+                         GetInstalledSDKLocations
+                       
+                   RestoreBuildInParallel = true
+                   RestoreContinueOnError = WarnAndContinue
+                   RestoreRecursive = true
+                   RestoreTaskAssemblyFile = NuGet.Build.Tasks.dll
+                   RestoreUseSkipNonexistentTargets = true
+                   RetargetAlwaysSupported = true
+                   RootNamespace = Server
+                   RoslynTargetsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn
+                   RunAfterInstall = true
+                   RunCodeAnalysisInputs = C:\Users\Cristian\Desktop\Test BitDefender\Release\Server.exe
+                   RunCppAnalysis = false
+                   RunDependsOn = 
+                   RuntimeIdentifiers = win;win-x86;win-x64
+                   SatelliteDllsProjectOutputGroupDependenciesDependsOn = 
+                         ;
+                         
+                         ;
+                         BuildOnlySettings;
+                         PrepareForBuild;
+                         AssignTargetPaths;
+                         ResolveReferences
+                       
+                       
+                   SatelliteDllsProjectOutputGroupDependsOn = PrepareForBuild;PrepareResourceNames
+                   SDK35ToolsPath = C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\
+                   SDK40ToolsPath = C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\
+                   SDKDisplayName = Windows 10
+                   SDKExtensionDirectoryRoot = C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10;C:\Program Files (x86)\Windows Kits\10
+                   SDKIdentifier = Windows
+                   SDKRedistOutputGroupDependsOn = ResolveSDKReferences;ExpandSDKReferences
+                   SDKReferenceDirectoryRoot = C:\Users\Cristian\AppData\Local\Microsoft SDKs;C:\Program Files (x86)\Microsoft SDKs
+                   SDKReferenceRegistryRoot = Software\Microsoft\Microsoft SDKs
+                   SDKVersion = 10.0
+                   SESSIONNAME = Console
+                   SGenFilesOutputGroupDependenciesDependsOn = 
+                         ;
+                         
+                         ;
+                         BuildOnlySettings;
+                         PrepareForBuild;
+                         AssignTargetPaths;
+                         ResolveReferences
+                       
+                       
+                   SGenFilesOutputGroupDependsOn = 
+                   SGenShouldGenerateSerializer = true
+                   SGenUseKeep = false
+                   SGenUseProxyTypes = true
+                   ShouldMarkCertainSDKReferencesAsRuntimeOnly = true
+                   SkipCopyBuildProduct = true
+                   SkipCopyUnchangedFiles = true
+                   SolutionDir = C:\Users\Cristian\Desktop\Test BitDefender\
+                   SolutionExt = .sln
+                   SolutionFileName = Test BitDefender.sln
+                   SolutionName = Test BitDefender
+                   SolutionPath = C:\Users\Cristian\Desktop\Test BitDefender\Test BitDefender.sln
+                   SourceControlInformationFeatureSupported = true
+                   SourceFilesProjectOutputGroupDependsOn = PrepareForBuild;AssignTargetPaths
+                   SourcePath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\atlmfc\src\mfc;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\atlmfc\src\mfcm;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\atlmfc\src\atl;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\crt\src;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Auxiliary\VS\src;;C:\Program Files (x86)\Windows Kits\10\Source\10.0.17134.0\ucrt;;;
+                   SpectreMitigation = false
+                   SQLDebugging = false
+                   SystemDrive = C:
+                   SystemRoot = C:\WINDOWS
+                   TargetCulture = *
+                   TargetDeployManifestFileName = Server.application
+                   TargetDir = C:\Users\Cristian\Desktop\Test BitDefender\Release\
+                   TargetedFrameworkDir = @(_TargetedFrameworkDirectoryItem)
+                   TargetedRuntimeVersion = v4.0.30319
+                   TargetedSDKArchitecture = x86
+                   TargetedSDKConfiguration = Retail
+                   TargetExt = .exe
+                   TargetFileName = Server.exe
+                   TargetFrameworkAsMSBuildRuntime = CLR4
+                   TargetFrameworkIdentifier = .NETFramework
+                   TargetFrameworkMoniker = .NETFramework,Version=v4.0
+                   TargetFrameworkMonikerAssemblyAttributesPath = C:\Users\Cristian\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp
+                   TargetFrameworkMonikerDisplayName = .NET Framework 4
+                   TargetFrameworkSDKToolsDirectory = C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\
+                   TargetFrameworkVersion = v4.0
+                   TargetName = Server
+                   TargetPath = C:\Users\Cristian\Desktop\Test BitDefender\Release\Server.exe
+                   TargetPlatformDisplayName = Windows 10.0.17134.0
+                   TargetPlatformIdentifier = Windows
+                   TargetPlatformMinVersion = 
+                   TargetPlatformMoniker = Windows,Version=10.0.17134.0
+                   TargetPlatformRegistryBase = Software\Microsoft\Microsoft SDKs\Windows
+                   TargetPlatformSdkPath = 
+                   TargetPlatformVersion = 10.0.17134.0
+                   TargetPlatformWinMDLocation = C:\Program Files (x86)\Windows Kits\10\References
+                   TargetRuntime = Managed
+                   TargetUniversalCRTVersion = 10.0.17134.0
+                   TaskKeyToken = 31bf3856ad364e35
+                   TaskVersion = 4.0.0.0
+                   TEMP = C:\Users\Cristian\AppData\Local\Temp
+                   TLogLocation = Release\Server.tlog\
+                   TMP = C:\Users\Cristian\AppData\Local\Temp
+                   ToolsetPropsFound = true
+                   ToolsetTargetsFound = true
+                   TrackFileAccess = true
+                   UCRTContentRoot = C:\Program Files (x86)\Windows Kits\10\
+                   UM_IncludePath = C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um
+                   UniversalCRT_IncludePath = C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\ucrt;
+                   UniversalCRT_LibraryPath_arm = C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\ucrt\arm;
+                   UniversalCRT_LibraryPath_arm64 = C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\ucrt\arm64;
+                   UniversalCRT_LibraryPath_x64 = C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\ucrt\x64;
+                   UniversalCRT_LibraryPath_x86 = C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\ucrt\x86;
+                   UniversalCRT_PropsPath = C:\Program Files (x86)\Windows Kits\10\\DesignTime\CommonConfiguration\Neutral\ucrt.props
+                   UniversalCRT_SourcePath = C:\Program Files (x86)\Windows Kits\10\Source\10.0.17134.0\ucrt;
+                   UniversalCRTSdkDir = C:\Program Files (x86)\Windows Kits\10\
+                   UniversalCRTSdkDir_10 = C:\Program Files (x86)\Windows Kits\10\
+                   UnmanagedRegistrationDependsOn = 
+                   UnmanagedUnregistrationDependsOn = 
+                   UpgradeSubsetToProfile = true
+                   UseCommonOutputDirectory = false
+                   UseDebugLibraries = false
+                   UseDotNetNativeToolchain = 
+                   UseLegacyManagedDebugger = true
+                   UseOfATL = false
+                   UseOfMFC = false
+                   USERDOMAIN = CRISTIANLAPTOP
+                   USERDOMAIN_ROAMINGPROFILE = CRISTIANLAPTOP
+                   USERNAME = Cristian
+                   USERPROFILE = C:\Users\Cristian
+                   UserRootDir = C:\Users\Cristian\AppData\Local\Microsoft\MSBuild\v4.0
+                   UseSourcePath = true
+                   v141_Installed = true
+                   ValidateRuntimeIdentifierCompatibility = false
+                   VC_ATLMFC_IncludePath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\atlmfc\include;
+                   VC_ATLMFC_SourcePath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\atlmfc\src\mfc;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\atlmfc\src\mfcm;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\atlmfc\src\atl;
+                   VC_CRT_SourcePath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\crt\src;
+                   VC_ExecutablePath_ARM = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\arm;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86
+                   VC_ExecutablePath_ARM64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\arm64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86
+                   VC_ExecutablePath_x64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86
+                   VC_ExecutablePath_x64_ARM = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX64\arm
+                   VC_ExecutablePath_x64_ARM64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX64\arm64
+                   VC_ExecutablePath_x64_x64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX64\x64
+                   VC_ExecutablePath_x64_x86 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX64\x86
+                   VC_ExecutablePath_x86 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86
+                   VC_ExecutablePath_x86_ARM = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\arm
+                   VC_ExecutablePath_x86_ARM64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\arm64
+                   VC_ExecutablePath_x86_x64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x64
+                   VC_ExecutablePath_x86_x86 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86
+                   VC_IFCPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\ifc\x86
+                   VC_IncludePath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\include;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\atlmfc\include;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Auxiliary\VS\include;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\ucrt;;
+                   VC_LibraryPath_ARM = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\ARM;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\atlmfc\lib\ARM;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Auxiliary\VS\lib\ARM;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\ucrt\arm;;
+                   VC_LibraryPath_ARM64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\ARM64;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\atlmfc\lib\ARM64;;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\ucrt\arm64;;
+                   VC_LibraryPath_ATL_ARM = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\atlmfc\lib\ARM;
+                   VC_LibraryPath_ATL_ARM64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\atlmfc\lib\ARM64;
+                   VC_LibraryPath_ATL_x64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\atlmfc\lib\x64;
+                   VC_LibraryPath_ATL_x86 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\atlmfc\lib\x86;
+                   VC_LibraryPath_VC_ARM = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\ARM;
+                   VC_LibraryPath_VC_ARM_Desktop = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\ARM
+                   VC_LibraryPath_VC_ARM_OneCore = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\onecore\ARM
+                   VC_LibraryPath_VC_ARM_Store = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\ARM\store
+                   VC_LibraryPath_VC_ARM64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\ARM64;
+                   VC_LibraryPath_VC_ARM64_Desktop = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\ARM64
+                   VC_LibraryPath_VC_ARM64_OneCore = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\onecore\ARM64
+                   VC_LibraryPath_VC_ARM64_Store = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\ARM64\store
+                   VC_LibraryPath_VC_x64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x64;
+                   VC_LibraryPath_VC_x64_Desktop = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x64
+                   VC_LibraryPath_VC_x64_OneCore = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\onecore\x64
+                   VC_LibraryPath_VC_x64_Store = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x64\store
+                   VC_LibraryPath_VC_x86 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86;
+                   VC_LibraryPath_VC_x86_Desktop = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86
+                   VC_LibraryPath_VC_x86_OneCore = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\onecore\x86
+                   VC_LibraryPath_VC_x86_Store = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86\store
+                   VC_LibraryPath_x64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x64;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\atlmfc\lib\x64;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Auxiliary\VS\lib\x64;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\ucrt\x64;;
+                   VC_LibraryPath_x86 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\atlmfc\lib\x86;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Auxiliary\VS\lib\x86;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\ucrt\x86;;
+                   VC_PGO_RunTime_Dir = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\Hostx86\x86
+                   VC_ReferencesPath_ARM = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\atlmfc\lib\ARM;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\ARM
+                   VC_ReferencesPath_ARM64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\atlmfc\lib\ARM64;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\ARM64
+                   VC_ReferencesPath_ATL_ARM = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\atlmfc\lib\ARM;
+                   VC_ReferencesPath_ATL_ARM64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\atlmfc\lib\ARM64;
+                   VC_ReferencesPath_ATL_x64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\atlmfc\lib\x64;
+                   VC_ReferencesPath_ATL_x86 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\atlmfc\lib\x86;
+                   VC_ReferencesPath_VC_ARM = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\ARM
+                   VC_ReferencesPath_VC_ARM64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\ARM64
+                   VC_ReferencesPath_VC_x64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x64
+                   VC_ReferencesPath_VC_x86 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86
+                   VC_ReferencesPath_x64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\atlmfc\lib\x64;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x64
+                   VC_ReferencesPath_x86 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\atlmfc\lib\x86;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x86
+                   VC_SourcePath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\atlmfc\src\mfc;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\atlmfc\src\mfcm;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\atlmfc\src\atl;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\crt\src;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Auxiliary\VS\src;;C:\Program Files (x86)\Windows Kits\10\Source\10.0.17134.0\ucrt;;
+                   VC_VC_IncludePath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\include;
+                   VC_VS_IncludePath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Auxiliary\VS\include;
+                   VC_VS_LibraryPath_VC_VS_ARM = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Auxiliary\VS\lib\ARM;
+                   VC_VS_LibraryPath_VC_VS_x64 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Auxiliary\VS\lib\x64;
+                   VC_VS_LibraryPath_VC_VS_x86 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Auxiliary\VS\lib\x86;
+                   VC_VS_SourcePath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Auxiliary\VS\src;
+                   VCCodeAnalysisUX = true
+                   VCIDEInstallDir = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\
+                   VCIDEInstallDir_150 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\
+                   VCInstallDir = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\
+                   VCInstallDir_150 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\
+                   VCLibPackagePath = C:\Users\Cristian\AppData\Local\vcpkg\vcpkg.user
+                   VCProjectVersion = 15.0
+                   VCTargetsPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\
+                   VCTargetsPath10 = C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\
+                   VCTargetsPath11 = C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\
+                   VCTargetsPath12 = C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\
+                   VCTargetsPath14 = C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\
+                   VCTargetsPath15 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\
+                   VCTargetsPathActual = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\
+                   VCTargetsPathEffective = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\
+                   VCToolArchitecture = Native32Bit
+                   VCToolsetSupportsJustMyCode = true
+                   VCToolsInstallDir = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\
+                   VCToolsInstallDir_150 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\
+                   VCToolsRedistVersion = 14.15.26706
+                   VCToolsVersion = 14.15.26726
+                   Version = 1.0.0.0
+                   VisualStudioDir = C:\Users\Cristian\Documents\Visual Studio 2017
+                   VisualStudioEdition = Microsoft Visual Studio Community 2017
+                   VisualStudioVersion = 15.0
+                   VS_ExecutablePath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\tools;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\ide;C:\Program Files (x86)\HTML Help Workshop;
+                   VS110COMNTOOLS = C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\Tools\
+                   VS120COMNTOOLS = C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\Tools\
+                   VS140COMNTOOLS = C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\
+                   VSAPPIDDIR = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\
+                   VSAPPIDNAME = devenv.exe
+                   VSIDEResolvedNonMSBuildProjectOutputs = <VSIDEResolvedNonMSBuildProjectOutputs />
+                   VSInstallDir = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\
+                   VSInstallDir_150 = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\
+                   VsInstallRoot = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community
+                   VSLANG = 1033
+                   VSSKUEDITION = Community
+                   VSTEL_CurrentSolutionBuildID = 78546078
+                   VSTEL_SolutionSessionID = {CF03EEC1-5026-4EC7-93A3-355EBF046260}
+                   VSVersion = $(VisualStudioVersion)
+                   WDKBinRoot = C:\Program Files (x86)\Windows Kits\10\bin\10.0.17134.0
+                   WebBrowserDebuggerDebuggerType = Auto
+                   WebReference_EnableLegacyEventingModel = false
+                   WebReference_EnableProperties = true
+                   WebReference_EnableSQLTypes = true
+                   WebServiceDebuggerDebuggerType = Auto
+                   WebServiceDebuggerSQLDebugging = False
+                   WholeProgramOptimization = true
+                   WholeProgramOptimizationAvailabilityInstrument = true
+                   WholeProgramOptimizationAvailabilityOptimize = true
+                   WholeProgramOptimizationAvailabilityTrue = true
+                   WholeProgramOptimizationAvailabilityUpdate = true
+                   windir = C:\WINDOWS
+                   Windows81SdkInstalled = true
+                   WindowsAppContainer = false
+                   WindowsSDK_ExecutablePath = C:\Program Files (x86)\Windows Kits\10\bin\10.0.17134.0\x86;;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools
+                   WindowsSDK_ExecutablePath_arm = C:\Program Files (x86)\Windows Kits\10\bin\10.0.17134.0\arm;
+                   WindowsSDK_ExecutablePath_arm64 = C:\Program Files (x86)\Windows Kits\10\bin\10.0.17134.0\arm64;
+                   WindowsSDK_ExecutablePath_x64 = C:\Program Files (x86)\Windows Kits\10\bin\10.0.17134.0\x64;;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\x64
+                   WindowsSDK_ExecutablePath_x86 = C:\Program Files (x86)\Windows Kits\10\bin\10.0.17134.0\x86;;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools
+                   WindowsSDK_HasVersionedContent = true
+                   WindowsSDK_IncludePath = C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\Include\um;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\Include\um
+                   WindowsSDK_LibraryPath = C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um
+                   WindowsSDK_LibraryPath_arm = C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\arm;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\lib\um\arm;
+                   WindowsSDK_LibraryPath_arm64 = C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\arm64;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\lib\um\arm64;
+                   WindowsSDK_LibraryPath_x64 = C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x64;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\lib\um\x64;
+                   WindowsSDK_LibraryPath_x86 = C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x86;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\lib\um\x86;
+                   WindowsSDK_MetadataFoundationPath = C:\Program Files (x86)\Windows Kits\10\References\10.0.17134.0\windows.foundation.foundationcontract\3.0.0.0
+                   WindowsSDK_MetadataPath = C:\Program Files (x86)\Windows Kits\10\References
+                   WindowsSDK_MetadataPathVersioned = C:\Program Files (x86)\Windows Kits\10\References\10.0.17134.0
+                   WindowsSDK_PlatformPath = C:\Program Files (x86)\Windows Kits\10\Platforms\UAP;
+                   WindowsSDK_SupportedAPIs_arm = C:\Program Files (x86)\Windows Kits\10\\App Certification Kit\SupportedAPIs-arm.xml
+                   WindowsSDK_SupportedAPIs_x64 = C:\Program Files (x86)\Windows Kits\10\\App Certification Kit\SupportedAPIs-x64.xml
+                   WindowsSDK_SupportedAPIs_x86 = C:\Program Files (x86)\Windows Kits\10\\App Certification Kit\SupportedAPIs-x86.xml
+                   WindowsSDK_UnionMetadataPath = C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.17134.0
+                   WindowsSDK80Path = C:\Program Files (x86)\Windows Kits\8.1\
+                   WindowsSdkDir = C:\Program Files (x86)\Windows Kits\10\
+                   WindowsSdkDir_10 = C:\Program Files (x86)\Windows Kits\10\
+                   WindowsSdkDir_81 = C:\Program Files (x86)\Windows Kits\8.1\
+                   WindowsSdkDir_81A = 
+                   WindowsSDKToolArchitecture = Native32Bit
+                   WindowsTargetPlatformVersion = 10.0.17134.0
+                   WinMDAssembly = false
+                   WinRT_IncludePath = C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\winrt
+                   WMSJSProject = WJProject
+                   WMSJSProjectDirectory = JavaScript
+                   XamlBuildTaskAssemblyName = XamlBuildTask, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+                   XamlBuildTaskLocation = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\amd64
+                   XamlBuildTaskPath = C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\amd64
+                   XamlGenCodeFileNames = Server.vcxproj.XamlGeneratedCodeFileListAbsolute.txt
+                   XamlGenMarkupFileNames = Server.vcxproj.XamlGeneratedXamlFileListAbsolute.txt
+                   XamlPass2FlagFile = Server.vcxproj.XamlPass2Flag.txt
+                   XamlRequiresCompilationPass2 = false
+                   XamlTemporaryAssemblyName = Server
+                   YieldDuringToolExecution = true
+
+14:47:37.021     1>Building with tools version "15.0".
+                   Target "EnableIntermediateOutputPathMismatchWarning" skipped, due to false condition; ('$(RestoreProjectStyle)' == 'PackageReference') was evaluated as ('' == 'PackageReference').
+14:47:37.021     1>Target "_CheckForInvalidConfigurationAndPlatform: (TargetId:19)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\Cristian\Desktop\Test BitDefender\Server\Server.vcxproj" (target "_PrepareForClean" depends on it):
+                   Set Property: _InvalidConfigurationMessageText=The OutputPath property is not set for project 'Server.vcxproj'.  Please check to make sure that you have specified a valid combination of Configuration and Platform for this project.  Configuration='Release'  Platform='Win32'.
+                   Set Property: _InvalidConfigurationMessageText=The OutputPath property is not set for project 'Server.vcxproj'.  Please check to make sure that you have specified a valid combination of Configuration and Platform for this project.  Configuration='Release'  Platform='Win32'.  This error may also appear if some other project is trying to follow a project-to-project reference to this project, this project has been unloaded or is not included in the solution, and the referencing project does not build using the same or an equivalent Configuration or Platform.
+                   Task "Error" skipped, due to false condition; ( '$(_InvalidConfigurationError)' == 'true' ) was evaluated as ( '' == 'true' ).
+                   Task "Warning" skipped, due to false condition; ( '$(_InvalidConfigurationWarning)' == 'true' ) was evaluated as ( '' == 'true' ).
+                   Task "Message" (TaskId:18)
+                     Task Parameter:Text=Configuration=Release (TaskId:18)
+                     Task Parameter:Importance=Low (TaskId:18)
+                     Configuration=Release (TaskId:18)
+                   Done executing task "Message". (TaskId:18)
+                   Task "Message" (TaskId:19)
+                     Task Parameter:Text=Platform=Win32 (TaskId:19)
+                     Task Parameter:Importance=Low (TaskId:19)
+                     Platform=Win32 (TaskId:19)
+                   Done executing task "Message". (TaskId:19)
+                   Task "Error" skipped, due to false condition; ('$(OutDir)' != '' and !HasTrailingSlash('$(OutDir)')) was evaluated as ('C:\Users\Cristian\Desktop\Test BitDefender\Release\' != '' and !HasTrailingSlash('C:\Users\Cristian\Desktop\Test BitDefender\Release\')).
+                   Task "Error" skipped, due to false condition; ('$(BaseIntermediateOutputPath)' != '' and !HasTrailingSlash('$(BaseIntermediateOutputPath)')) was evaluated as ('obj\' != '' and !HasTrailingSlash('obj\')).
+                   Task "Error" skipped, due to false condition; ('$(IntermediateOutputPath)' != '' and !HasTrailingSlash('$(IntermediateOutputPath)')) was evaluated as ('Release\' != '' and !HasTrailingSlash('Release\')).
+                   Task "Error" skipped, due to false condition; ( '$(_InitialMSBuildProjectExtensionsPath)' != '' And '$(MSBuildProjectExtensionsPath)' != '$(_InitialMSBuildProjectExtensionsPath)' ) was evaluated as ( 'C:\Users\Cristian\Desktop\Test BitDefender\Server\obj\' != '' And 'C:\Users\Cristian\Desktop\Test BitDefender\Server\obj\' != 'C:\Users\Cristian\Desktop\Test BitDefender\Server\obj\' ).
+                   Task "Warning" skipped, due to false condition; ( '$(EnableBaseIntermediateOutputPathMismatchWarning)' == 'true' And '$(_InitialBaseIntermediateOutputPath)' != '$(BaseIntermediateOutputPath)' And '$(BaseIntermediateOutputPath)' != '$(MSBuildProjectExtensionsPath)' ) was evaluated as ( '' == 'true' And 'obj\' != 'obj\' And 'obj\' != 'C:\Users\Cristian\Desktop\Test BitDefender\Server\obj\' ).
+14:47:37.022     1>Done building target "_CheckForInvalidConfigurationAndPlatform" in project "Server.vcxproj".: (TargetId:19)
+14:47:37.022     1>Target "_PrepareForClean: (TargetId:20)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.BuildSteps.Targets" from project "C:\Users\Cristian\Desktop\Test BitDefender\Server\Server.vcxproj" (target "Clean" depends on it):
+                   Set Property: BuildType=Clean
+                   Set Property: _BuildActionType=Clean
+                   Task "Delete" skipped, due to false condition; (Exists($(LastBuildState))) was evaluated as (Exists(Release\Server.tlog\Server.lastbuildstate)).
+14:47:37.022     1>Done building target "_PrepareForClean" in project "Server.vcxproj".: (TargetId:20)
+14:47:37.022     1>Target "BeforeClean: (TargetId:21)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\Cristian\Desktop\Test BitDefender\Server\Server.vcxproj" (target "Clean" depends on it):
+14:47:37.022     1>Done building target "BeforeClean" in project "Server.vcxproj".: (TargetId:21)
+                   Target "UnmanagedUnregistration" skipped, due to false condition; ((('$(_AssemblyTimestampBeforeCompile)' != '$(_AssemblyTimestampAfterCompile)' or '$(RegisterForComInterop)' != 'true' or '$(OutputType)' != 'library') or
+                                       ('$(_AssemblyTimestampBeforeCompile)' == '')) and
+                                      Exists('@(_UnmanagedRegistrationCache)')) was evaluated as ((('' != '' or '' != 'true' or 'exe' != 'library') or
+                                       ('' == '')) and
+                                      Exists('obj\Server.vcxproj.UnmanagedRegistration.cache')).
+14:47:37.022     1>Target "CoreClean: (TargetId:22)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\Cristian\Desktop\Test BitDefender\Server\Server.vcxproj" (target "Clean" depends on it):
+                   Task "Delete" (TaskId:20)
+                     Task Parameter:
+                         Files=
+                             Release\\TempCA\Server.pdb
+                             Release\\TempCA\Server.exe (TaskId:20)
+                     Task Parameter:TreatErrorsAsWarnings=True (TaskId:20)
+                     File "Release\\TempCA\Server.pdb" doesn't exist. Skipping. (TaskId:20)
+                     File "Release\\TempCA\Server.exe" doesn't exist. Skipping. (TaskId:20)
+                   Done executing task "Delete". (TaskId:20)
+                   Task "ReadLinesFromFile" (TaskId:21)
+                     Task Parameter:File=Release\Server.vcxproj.FileListAbsolute.txt (TaskId:21)
+                   Done executing task "ReadLinesFromFile". (TaskId:21)
+                   Task "FindUnderPath" (TaskId:22)
+                     Task Parameter:Path=C:\Users\Cristian\Desktop\Test BitDefender\Release\ (TaskId:22)
+                     Comparison path is "C:\Users\Cristian\Desktop\Test BitDefender\Release\". (TaskId:22)
+                   Done executing task "FindUnderPath". (TaskId:22)
+                   Task "FindUnderPath" (TaskId:23)
+                     Task Parameter:Path=Release\ (TaskId:23)
+                     Comparison path is "Release\". (TaskId:23)
+                   Done executing task "FindUnderPath". (TaskId:23)
+                   Task "Delete" (TaskId:24)
+                     Task Parameter:TreatErrorsAsWarnings=True (TaskId:24)
+                   Done executing task "Delete". (TaskId:24)
+                   Task "RemoveDuplicates" (TaskId:25)
+                   Done executing task "RemoveDuplicates". (TaskId:25)
+                   Task "MakeDir" (TaskId:26)
+                     Task Parameter:Directories=Release\ (TaskId:26)
+                   Done executing task "MakeDir". (TaskId:26)
+                   Task "WriteLinesToFile" (TaskId:27)
+                     Task Parameter:File=Release\Server.vcxproj.FileListAbsolute.txt (TaskId:27)
+                     Task Parameter:Overwrite=True (TaskId:27)
+                   Done executing task "WriteLinesToFile". (TaskId:27)
+14:47:37.025     1>Done building target "CoreClean" in project "Server.vcxproj".: (TargetId:22)
+14:47:37.025     1>Target "AssignProjectConfiguration: (TargetId:23)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\Cristian\Desktop\Test BitDefender\Server\Server.vcxproj" (target "PrepareProjectReferences" depends on it):
+                   Set Property: ShouldUnsetParentConfigurationAndPlatform=true
+                   Task "AssignProjectConfiguration" (TaskId:28)
+                     Task Parameter:CurrentProject=C:\Users\Cristian\Desktop\Test BitDefender\Server\Server.vcxproj (TaskId:28)
+                     Task Parameter:CurrentProjectConfiguration=Release (TaskId:28)
+                     Task Parameter:CurrentProjectPlatform=Win32 (TaskId:28)
+                     Task Parameter:OutputType=exe (TaskId:28)
+                     Task Parameter:ResolveConfigurationPlatformUsingMappings=False (TaskId:28)
+                     Task Parameter:SolutionConfigurationContents=<SolutionConfiguration>
+                     <ProjectConfiguration Project="{b79a483a-09ad-4f43-9179-cf10846bbdce}" AbsolutePath="C:\Users\Cristian\Desktop\Test BitDefender\Server\Server.vcxproj">Release|Win32</ProjectConfiguration>
+                     <ProjectConfiguration Project="{d47e48fb-7ffa-4487-a809-b669e55b0d24}" AbsolutePath="C:\Users\Cristian\Desktop\Test BitDefender\Client\Client.vcxproj">Release|Win32</ProjectConfiguration>
+                     <ProjectConfiguration Project="{2927f06d-9940-433f-92c0-794db7f8b65c}" AbsolutePath="C:\Users\Cristian\Desktop\Test BitDefender\TextCheck\TextCheck.vcxproj">Release|Win32</ProjectConfiguration>
+                     <ProjectConfiguration Project="{980551ec-c92f-4744-9643-32a7c6bd9eab}" AbsolutePath="C:\Users\Cristian\Desktop\Test BitDefender\BinaryCheck\BinaryCheck.vcxproj">Release|Win32</ProjectConfiguration>
+                     </SolutionConfiguration> (TaskId:28)
+                     Task Parameter:OnlyReferenceAndBuildProjectsEnabledInSolutionConfiguration=True (TaskId:28)
+                     Task Parameter:ShouldUnsetParentConfigurationAndPlatform=True (TaskId:28)
+                   Done executing task "AssignProjectConfiguration". (TaskId:28)
+14:47:37.025     1>Done building target "AssignProjectConfiguration" in project "Server.vcxproj".: (TargetId:23)
+14:47:37.025     1>Target "_SplitProjectReferencesByFileExistence: (TargetId:24)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\Cristian\Desktop\Test BitDefender\Server\Server.vcxproj" (target "PrepareProjectReferences" depends on it):
+                   Task "ResolveNonMSBuildProjectOutput" skipped, due to false condition; ('$(BuildingInsideVisualStudio)'=='true' and '@(ProjectReferenceWithConfiguration)'!='') was evaluated as ('true'=='true' and ''!='').
+14:47:37.025     1>Done building target "_SplitProjectReferencesByFileExistence" in project "Server.vcxproj".: (TargetId:24)
+14:47:37.025     1>Target "_GetProjectReferenceTargetFrameworkProperties: (TargetId:25)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\Cristian\Desktop\Test BitDefender\Server\Server.vcxproj" (target "PrepareProjectReferences" depends on it):
+                   Set Property: ReferringTargetFrameworkForProjectReferences=.NETFramework,Version=v4.0
+                   Task "MSBuild" (TaskId:29)
+                     Task Parameter:Targets=GetTargetFrameworks (TaskId:29)
+                     Task Parameter:BuildInParallel=True (TaskId:29)
+                     Task Parameter:RemoveProperties=;TargetFramework;RuntimeIdentifier (TaskId:29)
+                     Task Parameter:SkipNonexistentTargets=True (TaskId:29)
+                   Done executing task "MSBuild". (TaskId:29)
+                   Task "GetReferenceNearestTargetFrameworkTask" skipped, due to false condition; ('@(_ProjectReferenceTargetFrameworkPossibilities->Count())' != '0' and '$(ReferringTargetFrameworkForProjectReferences)' != '') was evaluated as ('0' != '0' and '.NETFramework,Version=v4.0' != '').
+14:47:37.026     1>Done building target "_GetProjectReferenceTargetFrameworkProperties" in project "Server.vcxproj".: (TargetId:25)
+14:47:37.026     1>Target "PrepareProjectReferences: (TargetId:26)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\Cristian\Desktop\Test BitDefender\Server\Server.vcxproj" (target "CleanReferencedProjects" depends on it):
+14:47:37.026     1>Done building target "PrepareProjectReferences" in project "Server.vcxproj".: (TargetId:26)
+14:47:37.026     1>Target "CleanReferencedProjects: (TargetId:27)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\Cristian\Desktop\Test BitDefender\Server\Server.vcxproj" (target "Clean" depends on it):
+                   Task "MSBuild" skipped, due to false condition; ('$(BuildingInsideVisualStudio)' != 'true' and '$(BuildProjectReferences)' == 'true' and '@(_MSBuildProjectReferenceExistent)' != '') was evaluated as ('true' != 'true' and 'true' == 'true' and '' != '').
+14:47:37.026     1>Done building target "CleanReferencedProjects" in project "Server.vcxproj".: (TargetId:27)
+14:47:37.026     1>Target "CleanPublishFolder: (TargetId:28)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\Cristian\Desktop\Test BitDefender\Server\Server.vcxproj" (target "Clean" depends on it):
+                   Task "RemoveDir" skipped, due to false condition; ('$(PublishDir)'=='$(OutputPath)app.publish\' and Exists('$(PublishDir)')) was evaluated as ('C:\Users\Cristian\Desktop\Test BitDefender\Release\app.publish\'=='C:\Users\Cristian\Desktop\Test BitDefender\Release\app.publish\' and Exists('C:\Users\Cristian\Desktop\Test BitDefender\Release\app.publish\')).
+14:47:37.027     1>Done building target "CleanPublishFolder" in project "Server.vcxproj".: (TargetId:28)
+14:47:37.027     1>Target "AfterClean: (TargetId:29)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\Cristian\Desktop\Test BitDefender\Server\Server.vcxproj" (target "Clean" depends on it):
+14:47:37.027     1>Done building target "AfterClean" in project "Server.vcxproj".: (TargetId:29)
+                   Target "EntityClean" skipped, due to false condition; ('@(EntityDeploy)' != '') was evaluated as ('' != '').
+14:47:37.027     1>Target "BeforeCppClean: (TargetId:30)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets" from project "C:\Users\Cristian\Desktop\Test BitDefender\Server\Server.vcxproj" (target "CppClean" depends on it):
+14:47:37.027     1>Done building target "BeforeCppClean" in project "Server.vcxproj".: (TargetId:30)
+14:47:37.027     1>Target "CoreCppClean: (TargetId:31)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets" from project "C:\Users\Cristian\Desktop\Test BitDefender\Server\Server.vcxproj" (target "CppClean" depends on it):
+                   Task "MakeDir" (TaskId:30)
+                     Task Parameter:Directories=Release\ (TaskId:30)
+                   Done executing task "MakeDir". (TaskId:30)
+                   Using "CppClean" task from assembly "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Build.CppTasks.Common.dll".
+                   Task "CppClean" (TaskId:31)
+                     Task Parameter:FoldersToClean=Release\;Release\Server.tlog\ (TaskId:31)
+                     Task Parameter:FilesExcludedFromClean=Server.Build.CppClean.log (TaskId:31)
+                     Task Parameter:DoDelete=True (TaskId:31)
+                     Task Parameter:FilePatternsToDeleteOnClean=*.cdf;*.cache;*.obj;*.obj.enc;*.ilk;*.ipdb;*.iobj;*.resources;*.tlb;*.tli;*.tlh;*.tmp;*.rsp;*.pgc;*.pgd;*.meta;*.tlog;*.manifest;*.res;*.pch;*.exp;*.idb;*.rep;*.xdc;*.pdb;*_manifest.rc;*.bsc;*.sbr;*.xml;*.metagen;*.bi;C:\Users\Cristian\Desktop\Test BitDefender\Release\Server.exe.manifest;C:\Users\Cristian\Desktop\Test BitDefender\Release\Server.tlb;C:\Users\Cristian\Desktop\Test BitDefender\Release\Server.pdb;C:\Users\Cristian\Desktop\Test BitDefender\Release\Server.exe;C:\Users\Cristian\Desktop\Test BitDefender\Release\Server.bsc;C:\Users\Cristian\Desktop\Test BitDefender\Release\Server.ilk;C:\Users\Cristian\Desktop\Test BitDefender\Release\Server.exe.intermediate.manifest (TaskId:31)
+                     Output Item(s): DeletedFilesByCppCleanTask= (TaskId:31)
+                   Done executing task "CppClean". (TaskId:31)
+                   Task "WriteLinesToFile" (TaskId:32)
+                     Task Parameter:File=Release\Server.Build.CppClean.log (TaskId:32)
+                     Task Parameter:Overwrite=True (TaskId:32)
+                   Done executing task "WriteLinesToFile". (TaskId:32)
+14:47:37.033     1>Done building target "CoreCppClean" in project "Server.vcxproj".: (TargetId:31)
+14:47:37.033     1>Target "AfterCppClean: (TargetId:32)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets" from project "C:\Users\Cristian\Desktop\Test BitDefender\Server\Server.vcxproj" (target "CppClean" depends on it):
+14:47:37.033     1>Done building target "AfterCppClean" in project "Server.vcxproj".: (TargetId:32)
+14:47:37.033     1>Target "PGInstrumentedClean: (TargetId:33)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets" from project "C:\Users\Cristian\Desktop\Test BitDefender\Server\Server.vcxproj" (target "CppClean" depends on it):
+                   Task "Delete" (TaskId:33)
+                   Done executing task "Delete". (TaskId:33)
+14:47:37.034     1>Done building target "PGInstrumentedClean" in project "Server.vcxproj".: (TargetId:33)
+14:47:37.034     1>Target "CppClean: (TargetId:34)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets" from project "C:\Users\Cristian\Desktop\Test BitDefender\Server\Server.vcxproj" (target "Clean" depends on it):
+14:47:37.034     1>Done building target "CppClean" in project "Server.vcxproj".: (TargetId:34)
+                   Target "_CheckForInvalidConfigurationAndPlatform" skipped. Previously built successfully.
+                   Target "_CheckForInvalidConfigurationAndPlatform" skipped. Previously built successfully.
+14:47:37.034     1>Target "Clean: (TargetId:35)" in file "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\Cristian\Desktop\Test BitDefender\Server\Server.vcxproj" (entry point):
+14:47:37.034     1>Done building target "Clean" in project "Server.vcxproj".: (TargetId:35)
+14:47:37.034     1>Done Building Project "C:\Users\Cristian\Desktop\Test BitDefender\Server\Server.vcxproj" (Clean target(s)).
+
+Project Performance Summary:
+       13 ms  C:\Users\Cristian\Desktop\Test BitDefender\Server\Server.vcxproj   1 calls
+                 13 ms  Clean                                      1 calls
+
+Target Performance Summary:
+        0 ms  CleanReferencedProjects                    1 calls
+        0 ms  AfterCppClean                              1 calls
+        0 ms  BeforeCppClean                             1 calls
+        0 ms  AfterClean                                 1 calls
+        0 ms  CppClean                                   1 calls
+        0 ms  PrepareProjectReferences                   1 calls
+        0 ms  Clean                                      1 calls
+        0 ms  _SplitProjectReferencesByFileExistence     1 calls
+        0 ms  AssignProjectConfiguration                 1 calls
+        0 ms  BeforeClean                                1 calls
+        0 ms  _PrepareForClean                           1 calls
+        1 ms  CleanPublishFolder                         1 calls
+        1 ms  _GetProjectReferenceTargetFrameworkProperties   1 calls
+        1 ms  _CheckForInvalidConfigurationAndPlatform   1 calls
+        1 ms  PGInstrumentedClean                        1 calls
+        3 ms  CoreClean                                  1 calls
+        6 ms  CoreCppClean                               1 calls
+
+Task Performance Summary:
+        0 ms  Message                                    2 calls
+        0 ms  ReadLinesFromFile                          1 calls
+        0 ms  RemoveDuplicates                           1 calls
+        0 ms  WriteLinesToFile                           2 calls
+        0 ms  AssignProjectConfiguration                 1 calls
+        1 ms  FindUnderPath                              2 calls
+        1 ms  MSBuild                                    1 calls
+        1 ms  MakeDir                                    2 calls
+        2 ms  Delete                                     3 calls
+        6 ms  CppClean                                   1 calls
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.01
